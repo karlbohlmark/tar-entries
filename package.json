@@ -1,0 +1,19 @@
+{
+  "name": "tar-entries",
+  "version": "0.0.1",
+  "description": "Get file entries with byte ranges from tar file",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "tar": "~0.1.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Karl Böhlmark",
+  "license": "BSD"
+}
